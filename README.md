@@ -41,3 +41,11 @@ We classify complaints into the following categories:
    ```bash
    git clone https://github.com/your-username/consumer-complaints-classification.git
    cd consumer-complaints-classification
+
+📊 Results & Model Performance
+|   Model               |Accuaracy |
+------------------------------------
+|   Naive Bayes         |    44%   |
+|   Logistic Regression |    48%   |
+|   Random Forest       |    47%   |
+------------------------------------
