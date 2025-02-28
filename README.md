@@ -49,3 +49,6 @@ We classify complaints into the following categories:
 |   Logistic Regression |    48%   |
 |   Random Forest       |    47%   |
 ------------------------------------
+
+
+Screenshots are attached to verify the Results
